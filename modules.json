@@ -1,0 +1,9 @@
+{
+  "Packages":
+  [
+    {"Name":"Utilities", "Id":"com.evlppy.utilities","Url":"https://github.com/Evlppy99/Utilities.git"},
+    {"Name":"Firebase/Dynamic Links System", "Id":"com.evlppy.dynamiclinkssystem","Url":"https://github.com/Evlppy99/Dynamic-Links-System.git"},
+    {"Name":"Firebase/Firestore System", "Id":"com.evlppy.firestoresystem","Url":"https://github.com/Evlppy99/Firestore-System.git"},
+    {"Name":"Social/Invite System", "Id":"com.evlppy.invitesystem","Url":"https://github.com/Evlppy99/Invite-System.git"}
+  ]
+}
